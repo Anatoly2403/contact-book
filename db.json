@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "login": "sam",
+      "password": "123",
+      "id": 2,
+      "phone": 79501234567,
+      "contact": [
+        {
+          "name": "сергей",
+          "phone": "2"
+        },
+        {
+          "name": "семен",
+          "phone": "3"
+        },
+        {
+          "name": "роман",
+          "phone": "4"
+        },
+        {
+          "name": "алексей",
+          "phone": "7"
+        },
+        {
+          "name": "anatoly",
+          "phone": "1"
+        }
+      ]
+    },
+    {
+      "login": "anatol",
+      "phone": "b",
+      "password": "123",
+      "confirm": "123",
+      "id": 3
+    },
+    {
+      "login": "anatol",
+      "phone": "79041323456",
+      "password": "1231",
+      "confirm": "1231",
+      "id": 4
+    },
+    {
+      "login": "marissa",
+      "phone": "+79256851212",
+      "password": "ghbjhbntn",
+      "confirm": "ghbjhbntn",
+      "id": 5,
+      "contact": [
+        {
+          "name": "pudel",
+          "phone": "123856912323"
+        }
+      ]
+    },
+    {
+      "login": "wer",
+      "phone": "7896542315",
+      "password": "wer",
+      "confirm": "wer",
+      "id": 6,
+      "contact": []
+    },
+    {
+      "login": "wer",
+      "phone": "789",
+      "password": "789456",
+      "confirm": "789456",
+      "id": 7
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+.header {
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #fff;
+    z-index: 5;
+}
+
+.btn {
+    height: 34px;
+    outline: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 0 5px;
+}
+
+.header__login {
+    width: 87px;
+    background: #fff;
+    border: 2px solid;
+    border-image: linear-gradient(180deg, #BC9CFF 0%, #8BA4F9 100%);
+    border-image-slice: 1;
+    color: #BC9CFF;
+}
+
+.header__registration {
+    background: linear-gradient(180deg, #BC9CFF 0%, #8BA4F9 100%);
+    width: 196px;
+    border: none;
+    color: #FFFFFF;
+}

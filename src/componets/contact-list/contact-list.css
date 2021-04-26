@@ -1,0 +1,16 @@
+.contact-list {
+    list-style: none;
+    max-height: 500px;
+    height: 100%;
+    padding: 15px 0;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    overflow-x: scroll;
+    -ms-overflow-style: none;
+    overflow: -moz-scrollbars-none;
+}
+
+.contact-list::-webkit-scrollbar {
+    width: 0;
+}
